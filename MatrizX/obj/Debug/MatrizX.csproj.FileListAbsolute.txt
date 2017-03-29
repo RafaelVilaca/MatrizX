@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\bin\Debug\MatrizX.exe.config
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\bin\Debug\MatrizX.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\bin\Debug\MatrizX.pdb
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\obj\Debug\MatrizX.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\obj\Debug\MatrizX.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\MatrizX\MatrizX\obj\Debug\MatrizX.pdb
